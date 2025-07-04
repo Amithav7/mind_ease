@@ -34,3 +34,19 @@
 ```bash
 git clone https://github.com/Amithav7/mind_ease.git
 cd mind_ease
+```
+## 🙏 Acknowledgements
+
+- **Google Cloud & Gemini API** for enabling natural language understanding  
+- **Streamlit** for rapid frontend prototyping  
+
+### Team Members
+- **Amithav Mrithyunjay R**  
+- **Senthilvelaa P**
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
